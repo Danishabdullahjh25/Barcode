@@ -1,4 +1,5 @@
 #hello Danish abdullah here
+#hello affan here contributing
 #i hope you all doing well
 #this is source code of simple Barcode Importing library
 import qrcode
