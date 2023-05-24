@@ -1,6 +1,6 @@
-#hello Danish abdullah here
-#i hope you all doing well
-#this is source code of simple Barcode Importing library
+#Hello Danish Abdullah here
+#I hope you're all doing well
+#This is source code of simple Barcode Importing library
 import qrcode
 
 
